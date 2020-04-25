@@ -1,6 +1,6 @@
 # Electric bike high power 3D printed battery pack
 
-High power ebike battery pack 14S7P and simple lipo spotwelder
+High power 14S7P ebike battery pack and simple lipo spotwelder.
 
 ### Printing
 
